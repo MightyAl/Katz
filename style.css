@@ -51,9 +51,22 @@ body {
     height: 21px;
 }
 
-.banner img{
+.banner img {
     max-width: 100%;
 }
+
+.diensten {
+    background: #ffffff;
+}
+
+.tarieven {
+    background: #adadad;
+}
+
+.contact {
+    background: #ffffff;
+}
+
 
 .footer{
     color: #ffffff;

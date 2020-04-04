@@ -5,6 +5,13 @@ body {
     font-weight: 400;
 }
 
+.navbar {
+    background: #000000;
+    padding: 20px 0;
+    position: sticky;
+    top:0;
+}
+
 .container {
     width: 80%;
     margin: 0 auto;    
@@ -91,4 +98,11 @@ nav a:hover::before {
 
 .banner img{
     max-width: 100%;
+}
+
+.footer{
+    color: #ffffff;
+    background: #000000;
+    text-align: center;
+    padding: 20px, 0;
 }
